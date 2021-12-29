@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **flowsn4ke/flowsn4ke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/flowsn4ke/frmx"><img src="https://www.frmx.io/img/frmx.svg" height="70" alt="frmx logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/flowsn4ke/frmx"><img src="https://www.frmx.io/img/frmx.svg" height="50" alt="frmx logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
