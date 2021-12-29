@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/flowsn4ke/frmx"><img src="https://www.frmx.io/img/frmx.svg" height="50" alt="frmx logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+👋 Hi! I'm Théo and I currently work on computerized maintenance management systems. I mostly speak English, French, Russian, Rust & JavaScript. I also work on open source projects, some of which are listed down below:
+
+<a href="https://github.com/flowsn4ke/frmx"><img src="https://www.frmx.dev/img/frmx.svg" height="50" alt="frmx logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
