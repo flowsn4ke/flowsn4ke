@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software Developer, currently working on computerized maintenance management systems.
-
-I mostly speak English, French, Russian, Rust & JavaScript.
+Human - Computer Interpreter. Currently working on computerized maintenance management systems. I mostly speak English, French, Russian, Rust & JavaScript.
 
 Open source projects:
 
