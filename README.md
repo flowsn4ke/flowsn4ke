@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software Developer, currently working on on computerized maintenance management systems.
+Software Developer, currently working on computerized maintenance management systems.
 
 I mostly speak English, French, Russian, Rust & JavaScript.
 
