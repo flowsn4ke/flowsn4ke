@@ -1,4 +1,8 @@
-Currently working on computerized maintenance management systems. I mostly speak English, French, Russian, Rust & JavaScript.
+Tech CTO & Founder based in Paris, France.
+
+Currently working on computerized maintenance management systems & quality management systems.
+
+I mostly speak English, French, Russian, Rust & JavaScript.
 
 Open source projects:
 
