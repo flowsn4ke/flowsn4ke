@@ -1,4 +1,4 @@
-Tech CTO & Founder based in Paris, France.
+Tech CTPO based in Paris, France.
 
 Currently working on computerized maintenance management systems & quality management systems.
 
